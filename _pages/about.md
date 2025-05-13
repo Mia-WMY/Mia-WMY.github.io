@@ -65,7 +65,6 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 - *2024.11 - now*: Baidu, Beijing, China.
 
 
-
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
   <div style="text-align: center;">
@@ -86,7 +85,7 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 
 # 📖 Educations
 - *2022.09 - 2025.06 (now)*, School of Integrated Circuit Science and Engineering, BeiHang University (BUAA).
-- *2018.09 - 2022.06*, School of Computer and Cyberspace Security, Communication University of China (CUC).  -->
+- *2018.09 - 2022.06*, School of Computer and Cyberspace Security, Communication University of China (CUC).  
 
 <!-- # Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
