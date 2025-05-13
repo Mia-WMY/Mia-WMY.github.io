@@ -64,11 +64,10 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 
 - *2024.11 - now*: Baidu, Beijing, China.
 
-
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
   <div style="text-align: center;">
-    <img src="../images/baidu.png" alt="Baidu" style="width: 100px; height: 40px;">
+    <img src="../images/baidu.png" alt="Baidu" style="width: 120px; height: 40px;">
     <!-- <p>Company 1</p> -->
   </div>
 
