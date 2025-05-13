@@ -17,112 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaoshuang Huang is a final year master's student at China Agricultural University.
+Mingyue Wang is a final year master's student at BeiHang University.
 
 
 
 
 I am eager to contribute to research in areas such as, but not limited to:
 - **Multi-modal Large Language Model (MLLM)**
-- **Visual Comprehension**
-- **Mixture of Experts**
-- **The Application of MLLM**
-
+- **The Application of LLM**
+- **AI for Electronic Design Automation (EDA)**
 
 I will be graduating on July 1, 2025, and am available to start employment immediately. 
 
-<span style="color:red"> Currently, I am exploring job opportunities </span> and would welcome discussions or collaborations. Please feel free to [email me](mailto:huangxs497@gmail.com) if interested.
-
-
-# 🔥 News
-- *2024.12*: &nbsp; One paper is accepted to AAAI 2025 (CCF-A).
-- *2024.12*: &nbsp; Got **Chinese National Scholarship**.
-- *2024.12*: &nbsp; One paper is accepted to IEEE TMI (Top journal, IF=11.3).
-- *2023.11*: &nbsp; Got Master's First-Class Academic Scholarship.
-- *2024.05*: &nbsp; Two paper are accepted to MICCAI 2023 (CCF-B).
-- *2023.12*: &nbsp; One paper is accepted to BIBM 2023 (CCF-B).
-- *2023.11*: &nbsp; Got Master's First-Class Academic Scholarship.
-- *2023.07*: &nbsp; One paper is accepted to ICANN 2023 (CCF-C).
-- *2022.03*: &nbsp; Got Outstanding Graduates of Sichuan Province.
+<span style="color:red">Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
 
 
 # 📝 Selected Publications
-See the full list at [Google Scholar](https://scholar.google.com/citations?user=F-PndVsAAAAJ).
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2025</div><img src='images/AAAI2025-medplib.png' alt="sym" width="100%"></div></div>
+See the full list at [Google Scholar](https://scholar.google.com/citations?user=YUun97AAAAAJ).
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/AAAI2025-medplib.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[MedPLIB: Towards a Multimodal Large Language Model with Pixel-Level Insight for Biomedicine](https://arxiv.org/abs/2412.09278)
+[ARO: Autoregressive Operator Learning for Transferable and Multi-fidelity 3D-IC Thermal Analysis with Active Learning]
 
-**Xiaoshuang Huang**, Lingdong Shen, Jia Liu, Fangxin Shang, Hongxiang Li, Haifeng Huang, Yehui Yang <br>
+**Mingyue Wang**, Yuanqing Cheng, Weiheng Zeng, Zhenjie Lu, Vasilis F.Pavlidis, Wei W.Xiang <br>
 
-<a href="https://arxiv.org/abs/2412.09278">Paper</a>, <a href="https://github.com/ShawnHuang497/MedPLIB">Code</a> <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3676536.3676713">Paper</a>, <a href="https://github.com/Mia-WMY/ARO">Code</a> <br>
 
-The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2025.
+ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMI</div><img src='images/TMI-reclmis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/TMI-reclmis.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Cross-Modal Conditioned Reconstruction for Language-guided Medical Image Segmentation](https://ieeexplore.ieee.org/document/10816606)
+[MAUnet: Multiscale Attention U-Net for Effective IR Drop Prediction]
+**Mingyue Wang**, Yuanqing Cheng, Yage Lin, Kelin Peng, Shunchuan Yang, Zhou Jin, Wei W.Xing <br>
 
-**Xiaoshuang Huang**, Hongxiang Li, Meng Cao, Long Chen, Chenyu You, Dong An <br>
+<a href="https://dl.acm.org/doi/10.1145/3649329.3658465">Paper</a>, <a href="https://github.com/Mia-WMY/MAUnet">Code</a> <br>
 
-<a href="https://ieeexplore.ieee.org/document/10816606">Paper</a>, <a href="https://github.com/ShawnHuang497/RecLMIS">Code</a> <br>
-
-IEEE Transactions on Medical Imaging (TMI), 2024. (IF=11.3)
+DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI2024</div><img src='images/MICCAI2024-bird.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TED</div><img src='images/BIBM2023-polyp2former.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[A Refer-and-Ground Multimodal Large Language Model for Biomedicine](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_38)
+[DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors]
 
-**Xiaoshuang Huang**, Haifeng Huang, Lingdong Shen, Yehui Yang, Fangxin Shang, Junwei Liu, Jia Liu <br>
+**Mingyue Wang**, Hongwei Zhou, Yu Li, Lang Zeng, Wei W.Xing <br>
 
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-72390-2_38">Paper</a>, <a href="https://github.com/ShawnHuang497/BiRD">Code</a> <br>
+<a href="https://ieeexplore.ieee.org/document/10308755">Paper</a>, <a href="https://github.com/Mia-WMY/DrPCE">Code</a> <br>
 
-International conference on medical image computing and computer-assisted intervention (MICCAI), 2024. (Top Conference in Medical Image Processing, CCF-B.)
+IEEE Transactions on Electron Devices(IF=2.9)
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/segicl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[SegICL: A Universal In-context Learning Framework for Enhanced Segmentation in Medical Image](https://arxiv.org/abs/2403.16578)
-
-Lingdong Shen, Fangxin Shang, **Xiaoshuang Huang**, Yehui Yang, Haifeng Huang, Shiming Xiang <br>
-
-<a href="https://arxiv.org/abs/2403.16578">Paper</a> <br>
-
-Under Review.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BIBM2023</div><img src='images/BIBM2023-polyp2former.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Polyp2Former: Boundary Guided Network Based on Transformer for Polyp Segmentation](https://ieeexplore.ieee.org/document/10385257)
-
-**Xiaoshuang Huang**, Jinze Huang, Shuo Wang, Yaoguang Wei, Dong An, Jincun Liu <br>
-
-<a href="https://ieeexplore.ieee.org/document/10385257">Paper</a> <br>
-
-IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2023. (CCF-B.)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICANN2023</div><img src='images/ICANN2023-epatcher.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[E-Patcher: A Patch-Based Efficient Network for Fast Whole Slide Images Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-44210-0_22)
-
-**Xiaoshuang Huang**, Shuo Wang, Jinze Huang, Yaoguang Wei, Xinhua Dai, Yang Zhao, Dong An, Xiang Fang <br>
-
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-44210-0_22">Paper</a> <br>
-
-International Conference on Artificial Neural Networks (ICANN), 2023. (CCF-C.)
-</div>
-</div>
-
 
 
 # 💻 Internships
