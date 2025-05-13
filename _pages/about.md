@@ -32,7 +32,7 @@ I will be graduating on July 1, 2025, and am available to start employment immed
 Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
 
 
-# 📝 Publications
+# 📝 Selected Publications
 See the full list at [Google Scholar](https://scholar.google.com/citations?user=YUun97AAAAAJ).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='../images/iccad2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -58,18 +58,6 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TED</div><img src='../images/ted.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors]
-
-**Mingyue Wang**, Hongwei Zhou, Yu Li, Lang Zeng, Wei W.Xing <br>
-
-<a href="https://ieeexplore.ieee.org/document/10308755">Paper</a>, <a href="https://github.com/Mia-WMY/DrPCE">Code</a> <br>
-
-IEEE Transactions on Electron Devices(IF=2.9)
-</div>
-</div>
-
 
 # 💻 Internships
 
@@ -81,14 +69,8 @@ IEEE Transactions on Electron Devices(IF=2.9)
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
   <div style="text-align: center;">
-    <img src="images/baidu.png" alt="Baidu" style="width: 100px; height: 40px;">
+    <img src="../images/baidu.png" alt="Baidu" style="width: 100px; height: 40px;">
     <!-- <p>Company 1</p> -->
-  </div>
-
-
-  <div style="text-align: center;">
-    <img src="images/xiaohongshu.png" alt="Xiaohongshu" style="width: 70px; height: 40px;">
-    <!-- <p>Company 3</p> -->
   </div>
 
 </div>
