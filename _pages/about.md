@@ -29,7 +29,7 @@ I am eager to contribute to research in areas such as, but not limited to:
 
 I will be graduating on July 1, 2025, and am available to start employment immediately. 
 
-<span style="color:red">Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
+Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
 
 
 # 📝 Publications
@@ -74,9 +74,8 @@ IEEE Transactions on Electron Devices(IF=2.9)
 # 💻 Internships
 
 
-- *2025.03 - Present*: Xiaohongshu, Beijing, China.
-- *2024.01 - 2024.08*: Baidu, Beijing, China.
-- *2022.02 - 2022.09*: SenseTime, Shanghai, China.
+- *2024.11 - now*: Baidu, Beijing, China.
+
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
@@ -86,10 +85,6 @@ IEEE Transactions on Electron Devices(IF=2.9)
     <!-- <p>Company 1</p> -->
   </div>
 
-  <div style="text-align: center;">
-    <img src="images/sensetime.jpeg" alt="Sensetime" style="width: 100px; height: 40px;">
-    <!-- <p>Company 2</p> -->
-  </div>
 
   <div style="text-align: center;">
     <img src="images/xiaohongshu.png" alt="Xiaohongshu" style="width: 70px; height: 40px;">
@@ -101,21 +96,15 @@ IEEE Transactions on Electron Devices(IF=2.9)
 
 # 🎖 Honors and Awards
 - *2024* National Scholarship. 
-- *2024* Master's First-Class Academic Scholarship. 
-- *2023* Master's First-Class Academic Scholarship. 
-- *2022* Master's Second-Class Academic Scholarship. 
-- *2022* Outstanding Graduates of Sichuan Province. 
-- *2021* Chen Yuxin First-Class Scholarship (1/1600) 2021. 
-- *2020* National Encouragement Scholarship. 
-- *2019* National Encouragement Scholarship. 
+- *2024* Excellent Graduate Student. 
+- *2023* Master's Second-Class Academic Scholarship. 
 
 
-# Patents
-- Chinese invention patent: Training method, inference method, device, apparatus and storage medium for large language model. (The first inventor, Publication No.: CN118673325A)
 
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📖 Educations
+- *2022.09 - 2025.06 (now)*, School of Integrated Circuit Science and Engineering, BeiHang University (BUAA).
+- *2018.09 - 2022.06*, School of Computer and Cyberspace Security, Communication University of China (CUC).  -->
 
 <!-- # Academic Services
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
