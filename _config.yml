@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoshuang Huang"
+title                    : "Mingyue Wang"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "ShawnHuang497/xiaoshuanghuang.github.io"
+repository               : "Mia-WMY/Mia-WMY.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiaoshuang Huang"
+  name             : "Mingyue Wang"
   avatar           : "images/me.jpg"
-  bio              : "China Agricltural University"
+  bio              : "BeiHang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=F-PndVsAAAAJ"
-  email            : "huangxs497@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YUun97AAAAAJ"
+  email            : "chococolate0901@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ShawnHuang497"
+  github           : "Mia-WMY"
   google_plus      :
   keybase          :
   instagram        :
