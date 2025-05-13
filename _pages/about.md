@@ -32,9 +32,9 @@ I will be graduating on July 1, 2025, and am available to start employment immed
 <span style="color:red">Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
 
 
-# 📝 Selected Publications
+# 📝 Publications
 See the full list at [Google Scholar](https://scholar.google.com/citations?user=YUun97AAAAAJ).
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/AAAI2025-medplib.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [ARO: Autoregressive Operator Learning for Transferable and Multi-fidelity 3D-IC Thermal Analysis with Active Learning]
 
@@ -46,7 +46,7 @@ ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/TMI-reclmis.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/dac2024.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MAUnet: Multiscale Attention U-Net for Effective IR Drop Prediction]
 **Mingyue Wang**, Yuanqing Cheng, Yage Lin, Kelin Peng, Shunchuan Yang, Zhou Jin, Wei W.Xing <br>
@@ -58,7 +58,7 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TED</div><img src='images/BIBM2023-polyp2former.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TED</div><img src='images/ted.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DrPCE-Net: Differential Residual PCE Network for Characteristic Prediction of Transistors]
 
