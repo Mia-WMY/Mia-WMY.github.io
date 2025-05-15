@@ -40,7 +40,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 
 **Mingyue Wang**, Yuanqing Cheng, Weiheng Zeng, Zhenjie Lu, Vasilis F.Pavlidis, Wei W.Xing <br>
 
-<a href="https://dl.acm.org/doi/pdf/10.1145/3676536.3676713">Paper</a>, <a href="https://github.com/Mia-WMY/ARO">Code</a> <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3676536.3676713">Paper</a>, <a href="https://github.com/Mia-WMY/ARO">Code</a> , <a href="../images/aro_poster.pdf">Poster</a> <br>
 
 ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design.
 </div>
@@ -51,7 +51,7 @@ ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-
 [MAUnet: Multiscale Attention U-Net for Effective IR Drop Prediction]
 **Mingyue Wang**, Yuanqing Cheng, Yage Lin, Kelin Peng, Shunchuan Yang, Zhou Jin, Wei W.Xing <br>
 
-<a href="https://dl.acm.org/doi/10.1145/3649329.3658465">Paper</a>, <a href="https://github.com/Mia-WMY/MAUnet">Code</a> <br>
+<a href="https://dl.acm.org/doi/10.1145/3649329.3658465">Paper</a>, <a href="https://github.com/Mia-WMY/MAUnet">Code</a>, <a href="../images/maunet_poster.pdf">Poster</a>  <br>
 
 DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
