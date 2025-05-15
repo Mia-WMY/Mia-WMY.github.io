@@ -40,7 +40,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 
 **Mingyue Wang**, Yuanqing Cheng, Weiheng Zeng, Zhenjie Lu, Vasilis F.Pavlidis, Wei W.Xing <br>
 
-<a href="https://dl.acm.org/doi/pdf/10.1145/3676536.3676713">Paper</a>, <a href="https://github.com/Mia-WMY/ARO">Code</a> , <a href="../images/aro_poster.pdf">Poster</a> <br>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3676536.3676713">Paper</a>, <a href="https://github.com/Mia-WMY/ARO">Code</a> <br>
 
 ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-Aided Design.
 </div>
