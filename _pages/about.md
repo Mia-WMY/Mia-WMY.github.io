@@ -46,7 +46,7 @@ ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='../images/dac2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='../images/cor_fig2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MAUnet: Multiscale Attention U-Net for Effective IR Drop Prediction]
 **Mingyue Wang**, Yuanqing Cheng, Yage Lin, Kelin Peng, Shunchuan Yang, Zhou Jin, Wei W.Xing <br>
