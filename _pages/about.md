@@ -38,7 +38,7 @@ See the full list at [Google Scholar](https://scholar.google.com/citations?user=
 <div class='paper-box-text' markdown="1">
 [ARO: Autoregressive Operator Learning for Transferable and Multi-fidelity 3D-IC Thermal Analysis with Active Learning]
 
-**Mingyue Wang**, Yuanqing Cheng, Weiheng Zeng, Zhenjie Lu, Vasilis F.Pavlidis, Wei W.Xiang <br>
+**Mingyue Wang**, Yuanqing Cheng, Weiheng Zeng, Zhenjie Lu, Vasilis F.Pavlidis, Wei W.Xing <br>
 
 <a href="https://dl.acm.org/doi/pdf/10.1145/3676536.3676713">Paper</a>, <a href="https://github.com/Mia-WMY/ARO">Code</a> <br>
 
