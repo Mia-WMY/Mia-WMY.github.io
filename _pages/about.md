@@ -62,7 +62,7 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 # 💻 Internships
 
 
-- *2024.11 - now*: Baidu, Beijing, China.
+- *2024.11 - now*: Baidu, work as an NLP Engineer, Beijing, China.
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
