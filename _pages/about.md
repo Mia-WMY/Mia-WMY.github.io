@@ -97,5 +97,5 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
 
 <div style="width: 150px; height: 150px; overflow: hidden; margin: 0 auto;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=mgATiKvAaShFPTFxK4qXp0MziG8vwfnWGKw1wzZSEvQ"></script>
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=dlsjWEn1C4bHgGL04qwNYdVCtO0WddmGm8i4rgzyoXc"></script>
 </div>
