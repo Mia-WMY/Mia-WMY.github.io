@@ -90,7 +90,7 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 
 
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, School of Integrated Circuit Science and Engineering, BeiHang University (BUAA).
+- *2022.09 - 2025.06*, School of Integrated Circuit Science and Engineering, BeiHang University (BUAA).
 - *2018.09 - 2022.06*, School of Computer and Cyberspace Security, Communication University of China (CUC).  
 
 <!-- # Academic Services
