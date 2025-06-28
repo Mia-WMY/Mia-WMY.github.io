@@ -17,17 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Mingyue Wang is a final year master's student at BeiHang University.
-
-
-
+Mingyue Wang graduated with a master's degree from BeiHang University.
 
 I am eager to contribute to research in areas such as, but not limited to:
 - **Multi-modal Large Language Model (MLLM)**
 - **The Application of LLM**
 - **AI for Electronic Design Automation (EDA)**
-
-I will be graduating on July 1, 2025, and am available to start employment immediately. 
 
 Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
 
@@ -57,12 +52,23 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
 </div>
 
+# 💎 Employment
+
+- *2025.06 - now*: Baidu, work as an NLP Engineer, Beijing, China.
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+
+  <div style="text-align: center;">
+    <img src="../images/baidu.png" alt="Baidu" style="width: 120px; height: 40px;">
+    <!-- <p>Company 1</p> -->
+  </div>
+
+</div>
 
 
 # 💻 Internships
 
 
-- *2024.11 - now*: Baidu, work as an NLP Engineer, Beijing, China.
+- *2024.11 - 2025.03*: Baidu, work as an NLP Engineer, Beijing, China.
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
@@ -75,6 +81,7 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 
 
 # 🎖 Honors and Awards
+- *2025* Outstanding Master's Thesis of BeiHang University
 - *2024* National Scholarship. 
 - *2024* Excellent Graduate Student. 
 - *2023* Master's Second-Class Academic Scholarship. 
