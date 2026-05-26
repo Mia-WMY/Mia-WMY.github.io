@@ -28,7 +28,7 @@ Open to discussions or collaborations，please feel free to [email me](mailto:wa
 
 # 📝 Selected Publications
 See the full list at [Google Scholar](https://scholar.google.com/citations?user=YUun97AAAAAJ).
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='../images/iccad2024.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='../images/KDD_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Language Model-Powered Query-Driven Event Timeline Summarization in Industrial Search]
