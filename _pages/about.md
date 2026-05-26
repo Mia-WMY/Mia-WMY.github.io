@@ -60,7 +60,7 @@ ICCAD'24: Proceedings of the 43rd IEEE/ACM International Conference on Computer-
 
 <a href="https://dl.acm.org/doi/10.1145/3649329.3658465">Paper</a>, <a href="https://github.com/Mia-WMY/MAUnet">Code</a>, <a href="../images/maunet_poster.pdf">Poster</a>  <br>
 
-DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
+DAC'24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 </div>
 </div>
 
