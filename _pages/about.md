@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Mingyue Wang graduated with a master's degree from BeiHang University.
+Mingyue Wang currently works as an algorithm engineer at Baidu.
 
 I am eager to contribute to research in areas such as, but not limited to:
-- **Multi-modal Large Language Model (MLLM)**
 - **The Application of LLM**
 - **AI for Electronic Design Automation (EDA)**
 
-Open to discussions or collaborations，please feel free to [email me](mailto:chococolate0901@outlook.com) if interested.
+Open to discussions or collaborations，please feel free to [email me](mailto:wangmy.mia@gmail.com) if interested.
 
 
 # 📝 Selected Publications
@@ -64,20 +63,6 @@ DAC '24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 
 </div>
 
-
-# 💻 Internships
-
-
-- *2024.11 - 2025.03*: Baidu, work as an NLP Engineer, Beijing, China.
-
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
-
-  <div style="text-align: center;">
-    <img src="../images/baidu.png" alt="Baidu" style="width: 120px; height: 40px;">
-    <!-- <p>Company 1</p> -->
-  </div>
-
-</div>
 
 
 # 🎖 Honors and Awards
