@@ -81,7 +81,6 @@ DAC'24: Proceedings of the 61st ACM/IEEE Design Automation Conference
 - *2022.09 - 2025.06*, School of Integrated Circuit Science and Engineering, BeiHang University (BUAA).
 - *2018.09 - 2022.06*, School of Computer and Cyberspace Security, Communication University of China (CUC).
 
-
 # 🎖 Honors and Awards
 - *2025* Outstanding Master's Thesis of BeiHang University
 - *2024* National Scholarship. 
